@@ -1,3 +1,6 @@
 # cv_driss
 ## Competence 
-### Windows server / linux 
+-j'ai des compétences en SISR
+### Système
+-Windows Server
+-Linux
