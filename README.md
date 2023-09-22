@@ -1,6 +1,12 @@
 # cv_driss
 ## Competence 
--j'ai des compétences en SISR
+-Gestion de projet
+-Developpement 
+-Cybersécurité
+-Système
+-Réseau
+-Eco Gestion
+
 ### Système
 -Windows Server
 -Linux
