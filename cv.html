@@ -1,47 +1,59 @@
-<html>
-    <main>
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cafe Menu</title>
+    <link href="styles.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="menu">
+      <main>
         <h1>Cv Driss</h1>
-
-        <h2>Competence</h2>
-        <ul>
-            <li>Gestion de projet</li>
-            <li>Developpement</li>
-            <li>Cybersécurité</li>
-            <li>Système</li>
-            <li>Virtualisation</li>
-            <li>Réseau</li>
-            <li>Eco Gestion</li>
-            <li>Système Embarquer</li>
-        </ul>
-
-        <h3>Gesion de projet</h3>
-
-        <h3>Developpement</h3>
-        <ul>
-            <li>Html</li>
-            <li>Css</li>
-        </ul>
-        <h3>Cybersécurité</h3>
-
-        <h3>Système</h3>
-        <ul>
-            <li>Windows Server</li>
-            <li>Linux</li>
-        </ul>
-        <h3>Virtualisation</h3>
-        <ul>
-            <li>Virtual Box</li>
-        </ul>
-
-        <h3>Réseau</h3>
-
-        <h3>Eco Gestion</h3>
-
-        <h3>Système Embarquer</h3>
-        <ul>
-            <li>Arduino</li>
-        </ul>
-
-        <img src="./photo_personne.jpg" alt="image d'une personne">
-    </main>
+        <hr>
+        <section>
+          <h2>Compétence</h2>
+          <!--img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon"/-->
+          <article class="item">
+            <p class="flavor">French Vanilla</p><p class="price">3.00</p>
+          </article>
+          <article class="item">
+            <p class="flavor">Caramel Macchiato</p><p class="price">3.75</p>
+          </article>
+          <article class="item">
+            <p class="flavor">Pumpkin Spice</p><p class="price">3.50</p>
+          </article>
+          <article class="item">
+            <p class="flavor">Hazelnut</p><p class="price">4.00</p>
+          </article>
+          <article class="item">
+            <p class="flavor">Mocha</p><p class="price">4.50</p>
+          </article>
+        </section>
+        <section>
+          <h2>Desserts</h2>
+          <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>
+          <article class="item">
+            <p class="dessert">Donut</p><p class="price">1.50</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Cherry Pie</p><p class="price">2.75</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Cheesecake</p><p class="price">3.00</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Cinnamon Roll</p><p class="price">2.50</p>
+          </article>
+        </section>
+      </main>
+      <hr class="bottom-line">
+      <footer>
+        <p>
+          <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+        </p>
+        <p class="address">123 Free Code Camp Drive</p>
+      </footer>
+    </div>
+  </body>
 </html>
