@@ -13,6 +13,15 @@
 
 - Analyse des besoins
 
+#### Outil Développement
+
+- Notepad ++
+- SublimeText
+- Visual Studio Code
+- Visual Studio
+- Git
+- Github
+
 #### Développement
 - Html
 - Css
