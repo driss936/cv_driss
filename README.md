@@ -1,18 +1,19 @@
 # CV Driss | Etudiant en BTS SIO au lycée turgot
 ## Competence 
 - Gestion de projet
-- Developpement 
+- Outil Développement
+- Développement 
 - Cybersécurité
 - Système
 - Virtualisation
 - Réseau
 - Système Embarquer
 
-### Gestion de projet
+#### Gestion de projet
 
 - Analyse des besoins
 
-### Developpement
+#### Développement
 - Html
 - Css
 - Js
@@ -27,21 +28,21 @@
 - PIA / EBIOS
 - Droit Cyber
 
-### Système
+#### Système
 - Windows Server (Powershell) 
 - Linux (Bash)
 
-### Virtualisation
+#### Virtualisation
 - Virtual Box
 - Vmware
 
-### Réseau
+#### Réseau
 - Cisco Packet Tracer
 
-### Système Embarquer
+#### Système Embarquer
 - Arduino
 
-### Base de données
+#### Base de données
 - Mysql
 - PhpMyAdmin
 - SQL
